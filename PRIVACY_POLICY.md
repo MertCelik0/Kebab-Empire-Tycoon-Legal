@@ -59,7 +59,6 @@ When you use the App, we automatically collect certain information about your de
 - Ad preferences and interests (inferred)
 - Device advertising ID
 - IP address (temporary, for ad serving)
-- General location (country/region level, derived from IP)
 
 ### 3. Local Storage
 
@@ -295,7 +294,6 @@ To exercise these rights, contact us at the email above.
 - Identifiers (device ID, advertising ID)
 - Internet activity (app usage, interactions)
 - Commercial information (purchase history)
-- Geolocation data (country/region level)
 
 **Business Purposes:**
 - Provide and improve the App
